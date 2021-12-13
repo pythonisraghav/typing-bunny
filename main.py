@@ -11,7 +11,7 @@ root = Tk()
 root.geometry('800x600+400+100')
 root.config(bg = 'dark magenta')
 root.title('Typing bunny')
-root.iconbitmap('C:\\Users\\sheetal\\Downloads\\Python Course with Notes\\python\\project\\assets\\rabbit.ico')
+root.iconbitmap('ur repositry path')
 root.maxsize(700,570)
 root.minsize(700,570)
 
