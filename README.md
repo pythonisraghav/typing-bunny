@@ -1,4 +1,6 @@
-# typing-bunny
+Hey there 😆
+
+# Typing-bunny
 # author: raghav rajput
 
 This is open source python software 
